@@ -24,5 +24,6 @@ public class App {
 
         System.out.println("cambios git");
         System.out.println("git funcional");
+        System.out.println("git funcional prueba 2");
     }
 }
